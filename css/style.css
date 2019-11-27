@@ -1,0 +1,64 @@
+.mainbox{
+	background-color: #fff;
+	height: 0px;
+	
+
+}
+.kontakti{
+	float: right;
+}
+
+.nosaukums{
+	top: 40px;
+	font-size: 30px;
+	font-family: Tahoma, serif;
+	color: darkred;
+
+
+
+
+}
+
+
+
+.menu{
+	height: 37px;
+	text-align: center;
+
+}
+.menu>ul>li{
+	display: inline;
+	padding: 10px 30px 10px 30px;
+	background-color: rgb(220,184,184);
+	position: relative;
+	top: 100px;
+	font-family: Tahoma, serif;
+	font-size: 30px;
+}
+
+.menu>ul>li>a{
+	text-decoration:none;
+	color: black;
+}
+
+.nos{
+	font-size: 40px;
+	text-align: center;
+	display: inline;
+	text-decoration: underline; 
+	position: relative;
+	top: 150px;
+}
+.karte{
+	position: relative;
+	top: 200px;
+	padding-left: 150px;
+}
+
+.kontaktuteksts{
+	position: relative;
+	float: right;
+	padding-right: 500px;
+	font-size: 35px;
+}
+
